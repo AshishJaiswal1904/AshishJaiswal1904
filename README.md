@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Web Development Project.
 - 🤔 I’m looking for help with Distributed System Design and building scalable Web applications
-- 💬 Ask me about HTML,CSS,PHP,REACT
+- 💬 Ask me about HTML,CSS,PHP,REACT,Web Fundamentals.
 - 📫 How to reach me:
 - ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
